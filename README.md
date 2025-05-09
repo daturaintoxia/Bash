@@ -1,5 +1,19 @@
 # Bash
 My often used bash script for easy access.
+
+
+```
+- Ge rättighet att "Köra":
+```
+sudo chmod +x xxxx.sh
+```
+- Run:
+```
+sudo ./xxxx.sh
+ ```
+
+
+
 ```
                     @@@                                               @@@@                          
                    @@@@                                             @@@@@@                          
@@ -47,15 +61,3 @@ My often used bash script for easy access.
           @@@#............%@@                                               @@@@#=-=++*%@@@@@@      
            @@@@@%*=-::...*@@@                                                @@@@@@@@@@@@@@         
              @@@@@@@@@@@@@@@                                                                         
-```
-- Ge rättighet att "Köra":
-```
-sudo chmod +x xxxx.sh
-```
-- Run:
-```
-sudo ./xxxx.sh
- ```
-
-
-![image](https://github.com/daturaintoxia/domain-reg-check/assets/1650715/bc6c0f70-f9f2-4f9a-bc7c-cbec6579abe2)
