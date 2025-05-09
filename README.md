@@ -1,5 +1,5 @@
 # Bash
-My often used bash script for easy access.
+Some bash script for easy access. Runs on Rocky 9.5
 
 - Ge rättighet att "Köra":
 ```
