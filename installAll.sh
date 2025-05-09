@@ -1,5 +1,5 @@
 #!/bin/bash
-# Installs Grapana and Prometheus for Rocky linux 9.5
+# Installs Graphana and Prometheus for Rocky linux 9.5
 
 # Uppdatera systemet
 
