@@ -1,8 +1,6 @@
 # Bash
 My often used bash script for easy access.
 
-
-```
 - Ge rättighet att "Köra":
 ```
 sudo chmod +x xxxx.sh
@@ -61,3 +59,4 @@ sudo ./xxxx.sh
           @@@#............%@@                                               @@@@#=-=++*%@@@@@@      
            @@@@@%*=-::...*@@@                                                @@@@@@@@@@@@@@         
              @@@@@@@@@@@@@@@                                                                         
+```
